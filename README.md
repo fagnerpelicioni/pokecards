@@ -1,6 +1,6 @@
 # pokecards-web
 
-Demo: s
+Demo: https://master.dfiisn4n7b4e0.amplifyapp.com/
 # Dev env
 ```
 Node 14.15.1
@@ -19,9 +19,9 @@ Vue Cli 4.5.9
 - Vue Jest: para testes unitários
 - SASS: Preprocessador de CSS
   Além disso, o CSS foi desenvolvido na metologia BEM, para manter o padrão DRY
+- Deploy CI pela AWS Amplify
 
-Também foram feitos comentários sobre o funcionamento do código, em inglês.
-
+Mais informações estão em comentários feitos em ingles, pelo codigo.
 
 ## Project setup
 ```
