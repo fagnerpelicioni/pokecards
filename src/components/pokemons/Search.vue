@@ -34,7 +34,7 @@ export default {
 <style lang="scss" scoped>
 .search {
   &__container {
-    padding: 2rem;
+    padding: 2rem 1rem;
   }
 
   &__title {
